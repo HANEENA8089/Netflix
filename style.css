@@ -140,9 +140,9 @@ form label {
     color: #fff;
 } */
 
-.faq-section h3 {
-    font-size: 1.25rem;
-    font-weight: 400;
+.faq-section h1 {
+    font-size: 3rem;
+    font-weight: 900;
     line-height: 1.875rem;
 }
 
